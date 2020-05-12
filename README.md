@@ -7,12 +7,11 @@ Modern Robotics Mechanics Planning and Control has 6 courses namely:
 * Foundations of Robotics Motion
 * Robot Kinematics
 * Robot Dynamics 
-* Robot Motion Planning and Control            
+* Robot Motion Planning and Control 
+* Robot Manipulation and Wheeled Mobile Robots
+* Capstone Project, Mobile Manipulation 
             
-           * Robot Dynamics 
-            * Robot Motion Planning and Control
-            * Robot Manipulation and Wheeled Mobile Robots
-            * Capstone Project, Mobile Manipulation 
+        
             
 
             
